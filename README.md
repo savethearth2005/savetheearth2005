@@ -3,8 +3,8 @@ import discord
 from discord.ext import commands
 
 # ---- CONFIG ----
-YOUR_USER_ID = 123456789012345678  # 👈 Replace with your actual Discord user ID
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # 👈 Replace with your bot token
+YOUR_USER_ID =1407096658512187512   # 👈 Replace with your actual Discord user ID
+BOT_TOKEN = "1427795843435466812"  # 👈 Replace with your bot token
 # ----------------
 
 intents = discord.Intents.default()
